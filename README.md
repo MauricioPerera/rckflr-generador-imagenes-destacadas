@@ -1,4 +1,4 @@
-# Generador de Imágenes Destacadas CodeWP
+# Generador de Imágenes Destacadas 
 
 Genera imágenes destacadas para publicaciones usando la IA Dalle 3 de OpenAI.
 
